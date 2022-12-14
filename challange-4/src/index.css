@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: beige;
+}
+.heading {
+  display: flex;
+  align-items: center;
+  background-color: cadetblue;
+  margin: 400px 200px;
+  border-radius: 7px;
+  height: 100px;
+  gap: 15px;
+  justify-content: center;
+  text-decoration: solid;
+}
